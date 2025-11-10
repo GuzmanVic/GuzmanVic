@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GuzmanVic
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning React.js
-- 💞️ I'm currently a student, but I hope to work in a software company someday
-- 📫 You can find all my projects in my profile, and you can text me by facebook "Victor Manuel Guzmán Loredo" or Instagram "@vic30gl"
+- 🌱 I’m currently working in BBVA Mexico as a backend apx/java developer
+- 📫 You can find all my  personal/student projects in my profile, and you can text me by facebook "Victor Manuel Guzmán Loredo" or Instagram "@vic30gl"
 
 <!---
 GuzmanVic/GuzmanVic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
